@@ -7,12 +7,13 @@ Eu sou [Felipe Torres](https://www.linkedin.com/in/felipe-torres-5457801a7).
 
 Sempre fui apaixonado por tecnologia e educação! Atualmente estou seguindo o caminho de me aprofundar mais em tecnolgoias backend e devops, mas o meu principal objetivo é chegar em um ponto que poderei compartilhar o que aprendi e inspirar outras pessoas! 
 
+</br>
 <div align="center">
   <a href="https://github.com/Fe-Torres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fe-Torres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fe-Torres&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+</br>
   
 - 🔭 Atualmente estou trabalhando com ...
 - 🌱 Atualmente estou estudando ...
