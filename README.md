@@ -5,7 +5,7 @@ Espero que todos estejam bem!
 
 Eu sou [Felipe Torres](https://www.linkedin.com/in/felipe-torres-5457801a7).
 
-Sempre fui apaixonado por tecnologia e educação! Atualmente estou seguindo o caminho de me aprofundar mais em tecnolgoias backend e devops, mas o meu principal objetivo é chegar em um ponto que poderei compartilhar o que aprendi e inspirar outras pessoas! 
+Sempre fui apaixonado por tecnologia e educação! Atualmente estou me aprofundando mais em tecnolgoias do ecossistema de backend e devops. O meu principal objetivo é chegar em um ponto que poderei compartilhar o que aprendi e inspirar outras pessoas no mundo dev! 
 
 <div align="center">
   <a href="https://github.com/Fe-Torres">
@@ -23,8 +23,8 @@ Sempre fui apaixonado por tecnologia e educação! Atualmente estou seguindo o c
 
   ##
   
-- 🔭 Atualmente estou trabalhando com ...
-- 🌱 Atualmente estou estudando ...
+- 🔭 Atualmente estou estudando: Git, CleanCode, Scrum, Design Patterns e GoLang.
+- 🌱 Futramente irei me aprofundar em Docker, Kafka, Kubernetes e AWS.  
 - 📫 Me encontre no linkedin em:  [![Linkedin Badge](https://img.shields.io/badge/-FelipeTorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/felipe-torres-5457801a7)](https://www.linkedin.com/in/felipe-torres-5457801a7) 
 - ☕ Amante de café!
 
