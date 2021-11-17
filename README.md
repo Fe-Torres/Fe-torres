@@ -9,8 +9,8 @@ Sempre fui apaixonado por tecnologia e educação! Atualmente estou me aprofunda
 
 <div align="center">
   <a href="https://github.com/Fe-Torres"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fe-Torres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fe-Torres&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fe-Torres&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fe-Torres&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="FeTorres-NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
