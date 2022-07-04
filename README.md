@@ -1,7 +1,4 @@
-## Olá pessoal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
-
-
-Espero que todos estejam bem!
+## Olá pessoal!
 
 Eu sou [Felipe Torres](https://www.linkedin.com/in/felipe-torres-5457801a7).
 
