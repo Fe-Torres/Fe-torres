@@ -2,7 +2,7 @@
 
 Eu sou [Felipe Torres](https://www.linkedin.com/in/felipe-torres-5457801a7).
 
-Sempre fui apaixonado por tecnologia e educação! Atualmente estou me aprofundando mais em tecnolgoias do ecossistema de backend e devops. O meu principal objetivo é chegar em um ponto que poderei compartilhar o que aprendi e inspirar outras pessoas no mundo dev! 
+Sempre fui apaixonado por tecnologia e educação! Atualmente estou me aprofundando mais em tecnolgoias do ecossistema de Backend e Devops. O meu principal objetivo é chegar em um ponto que poderei compartilhar o que aprendi e inspirar outras pessoas no mundo dev! 
 
 <div align="center">
   <a href="https://github.com/Fe-Torres"></a>
