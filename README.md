@@ -4,11 +4,6 @@ Eu sou [Felipe Torres](https://www.linkedin.com/in/felipe-torres-5457801a7).
 
 Sempre fui apaixonado por tecnologia e educação! Atualmente estou me aprofundando mais em tecnolgoias do ecossistema de Backend e Devops. O meu principal objetivo é chegar em um ponto que poderei compartilhar o que aprendi e inspirar outras pessoas no mundo dev! 
 
-<div align="center">
-  <a href="https://github.com/Fe-Torres"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fe-Torres&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fe-Torres&layout=compact&langs_count=7&theme=aura"/>
-</div>
 <div align="center" style="display: inline_block"><br>
     <img align="center" alt="FeTorres-NodeJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="FeTorres-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
