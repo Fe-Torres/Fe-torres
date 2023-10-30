@@ -17,7 +17,6 @@ Sempre fui apaixonado por tecnologia e educação! Atualmente estou me aprofunda
 
   ##
   
-- 📖 Atualmente estou estudando: Git, CleanCode, Scrum, Design Patterns e GoLang.
-- 🚀 Futramente irei me aprofundar em Docker, Kafka, Kubernetes e AWS.
+- 📖 Experiências: Software Developer | Typescript | NodeJs | NestJs | Python | Go | Azure | AWS | Docker | Terraform | Devops | CI/CD
 - 📫 Me encontre no linkedin:  [![Linkedin Badge](https://img.shields.io/badge/-FelipeTorres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/felipe-torres-5457801a7)](https://www.linkedin.com/in/felipe-torres-5457801a7)
 - ☕ Amante de café!
